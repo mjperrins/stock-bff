@@ -1,6 +1,8 @@
 
 ## Getting started
 
+Stock BFF
+
 1. Click the 'Use this template' button above or [this link](./generate) to generate a new repository 
 from this template.
 2. Clone the newly created template to your computer
